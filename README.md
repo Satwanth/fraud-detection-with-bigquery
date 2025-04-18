@@ -50,3 +50,9 @@ The project focused on TRANSFER and CASH_OUT transactions, as these were most as
 - Applied the final model to a hold-out test set to predict fraudulent transactions.
 - Identified high-risk transactions with fraud probabilities above 50%, focusing on those with >95% predicted likelihood of being fraudulent.
 - Enabled efficient fraud screening by surfacing the most suspicious transactions for further investigation.
+
+### K-Means Cluster Fraud Distribution
+![Cluster Fraud Counts](outcomes/task6_cluster_stats.png)
+
+### Fraud Prediction Results on Test Data
+![Prediction Results](outcomes/task7_prediction_results.png)
